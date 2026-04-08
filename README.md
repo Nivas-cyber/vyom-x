@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/00FF00?text=VYOM-X" alt="Vyom-X Logo" width="150" height="150" style="border-radius: 50%;">
   <h1>Vyom-X v2.0 🌀</h1>
   <p><b>The Ultimate Advanced Professional Bug Hunting & Reconnaissance Suite</b></p>
   
